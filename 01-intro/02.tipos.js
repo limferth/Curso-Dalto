@@ -13,7 +13,7 @@ let numero = NaN; //NaN no es un numero (Not a Number)
 2.  UQ==QUE ES EL PROMPT = A una api
 
 */ 
-let nombre = prompt("decime tu nombre");
+//let nombre = prompt("decime tu nombre");
 /*
 TIPOS DE OPERADORES EN JAVASCRIPT
 Un operador es un simbolo especial queespecifica que debe efectuar una determinada operacion
@@ -24,3 +24,15 @@ CONDICIONALES(O LOGICOS)
 RELACIONALES (O DE COMPARACION)
 ENTRE OTRAS
 */
+
+//OPERADORES INTERMEDIO
+/*
+1. Operadores logicos = (==, !)
+2. Operadores de compararacion =  ()
+*/
+let number = 23;
+let number2 = 15;
+
+tatality = (number != number2);
+
+console.log(tatality);
