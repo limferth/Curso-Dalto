@@ -1,0 +1,3 @@
+holabuenas este curso lo toma con muchas ganas y espero aprender muchas cosas, respecto a javascript
+sin mas que decir me despido de todos vosotros
+deseandome suerte...
